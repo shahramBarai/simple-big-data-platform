@@ -1,0 +1,397 @@
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+    Added id to submitter.csv
+
+commit e7be92089d20afcbe184d7fc6e8f017fc4e7f88b
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:10:34 2023 +0200
+
+    Uploading images for raport and deployment files
+
+commit 2e80fbc0b9ca35707edfad307c6d70a1eeec383a
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:08:13 2023 +0200
+
+    Added architecture image to the raport
+
+commit 94c99edb10359983248398ee3d1c54b1e2320bda
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:06:18 2023 +0200
+
+    Added deployment/installation guide
+
+commit 271f8c7546222a1b89c11a656a9b0eb22e5f82c3
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 06:02:40 2023 +0200
+
+    Removed unnecessary library.
+
+commit a0cdffe516a50ae1bd92384b93b21a3bf83c46c8
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 06:00:21 2023 +0200
+
+    Added Assignment-1-Report.md
+
+commit a77310f6eb1724d2aaf116d9c56754df3df5629f
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Thu Feb 16 17:56:37 2023 +0200
+
+    Added shell script for creating keyspace and table.
+
+commit 0aeb066e082d667504458be7a33b50b30597cd29
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Thu Feb 16 17:51:44 2023 +0200
+
+    Updated .sh and requirements.txt files.
+
+commit 27e6d33f5567ca6e3b554a623d8d15a0451e9f38
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Thu Feb 16 17:48:32 2023 +0200
+
+    Added shell script for creating keyspace and table.
+
+commit 2fb60068f3991e8cced39a1e43d326564a7d4046
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+:...skipping...
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+
+
+ ...skipping...
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+
+
+commit e7be92089d20afcbe184d7fc6e8f017fc4e7f88b
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+:...skipping...
+                                                               commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+
+
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:10:34 2023 +0200
+
+    Uploading images for raport and deployment files
+
+commit 2e80fbc0b9ca35707edfad307c6d70a1eeec383a
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:08:13 2023 +0200
+
+    Added architecture image to the raport
+:...skipping...
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+D
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+    Added id to submitter.csv
+
+commit e7be92089d20afcbe184d7fc6e8f017fc4e7f88b
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:10:34 2023 +0200
+
+    Uploading images for raport and deployment files
+
+
+
+Date:   Fri Feb 17 10:08:13 2023 +0200
+
+    Added architecture image to the raport
+
+commit 94c99edb10359983248398ee3d1c54b1e2320bda
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:06:18 2023 +0200
+
+:...skipping...
+                                                                          , origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+    Added id to submitter.csv
+
+commit e7be92089d20afcbe184d7fc6e8f017fc4e7f88b
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:10:34 2023 +0200
+
+    Uploading images for raport and deployment files
+
+commit 2e80fbc0b9ca35707edfad307c6d70a1eeec383a
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:08:13 2023 +0200
+
+    Added architecture image to the raport
+
+commit 94c99edb10359983248398ee3d1c54b1e2320bda
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:06:18 2023 +0200
+
+    Added deployment/installation guide
+
+:
+...skipping...
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+
+    Added id to submitter.csv
+
+commit e7be92089d20afcbe184d7fc6e8f017fc4e7f88b
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:10:34 2023 +0200
+
+    Uploading images for raport and deployment files
+
+commit 2e80fbc0b9ca35707edfad307c6d70a1eeec383a
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:08:13 2023 +0200
+
+    Added architecture image to the raport
+
+commit 94c99edb10359983248398ee3d1c54b1e2320bda
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:06:18 2023 +0200
+
+    Added deployment/installation guide
+
+commit 271f8c7546222a1b89c11a656a9b0eb22e5f82c3
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 06:02:40 2023 +0200
+
+    Removed unnecessary library.
+:...skipping...
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+    Added id to submitter.csv
+
+commit e7be92089d20afcbe184d7fc6e8f017fc4e7f88b
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:10:34 2023 +0200
+
+    Uploading images for raport and deployment files
+
+commit 2e80fbc0b9ca35707edfad307c6d70a1eeec383a
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:08:13 2023 +0200
+
+    Added architecture image to the raport
+
+commit 94c99edb10359983248398ee3d1c54b1e2320bda
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:06:18 2023 +0200
+
+    Added deployment/installation guide
+
+commit 271f8c7546222a1b89c11a656a9b0eb22e5f82c3
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 06:02:40 2023 +0200
+
+    Removed unnecessary library.
+
+commit a0cdffe516a50ae1bd92384b93b21a3bf83c46c8
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+:...skipping...
+commit 45dddd5639873fbc3c2e68c9a1001285ccd3e38d (HEAD -> main, origin/main, origin/HEAD)
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:29:15 2023 +0200
+
+    Added points of self-evaluation into selfgrading.csv
+
+commit 62ee989f943afe019454adf8084c506b2502d7d7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:25:31 2023 +0200
+
+    Added id to submitter.csv
+
+commit e7be92089d20afcbe184d7fc6e8f017fc4e7f88b
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:10:34 2023 +0200
+
+    Uploading images for raport and deployment files
+
+commit 2e80fbc0b9ca35707edfad307c6d70a1eeec383a
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:08:13 2023 +0200
+
+    Added architecture image to the raport
+
+commit 94c99edb10359983248398ee3d1c54b1e2320bda
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 10:06:18 2023 +0200
+
+    Added deployment/installation guide
+
+commit 271f8c7546222a1b89c11a656a9b0eb22e5f82c3
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 06:02:40 2023 +0200
+
+    Removed unnecessary library.
+
+commit a0cdffe516a50ae1bd92384b93b21a3bf83c46c8
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Fri Feb 17 06:00:21 2023 +0200
+
+    Added Assignment-1-Report.md
+
+commit a77310f6eb1724d2aaf116d9c56754df3df5629f
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Thu Feb 16 17:56:37 2023 +0200
+
+    Added shell script for creating keyspace and table.
+
+commit 0aeb066e082d667504458be7a33b50b30597cd29
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Thu Feb 16 17:51:44 2023 +0200
+
+    Updated .sh and requirements.txt files.
+
+commit 27e6d33f5567ca6e3b554a623d8d15a0451e9f38
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Thu Feb 16 17:48:32 2023 +0200
+
+    Added shell script for creating keyspace and table.
+
+commit 2fb60068f3991e8cced39a1e43d326564a7d4046
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Thu Feb 16 17:45:31 2023 +0200
+
+    Fixed data writing errors in Cassandra
+
+commit a44af27abbfaf837c71d6b1634cfdcf818baac15
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Wed Feb 15 22:31:38 2023 +0200
+
+    Added docker_installer.sh script
+
+commit 13a1e6afc424943a4604049aeb8c3e51d34c082e
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Wed Feb 15 21:25:27 2023 +0200
+
+    Modified the names of folders and files.
+
+commit 81377a2dd60b5f4c6120d87f29b3c398c385a01a
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Wed Feb 15 20:57:22 2023 +0200
+
+    Updated mysimbdp-dataingest. Updated consumer: define the Cassandra, added code for check if the keyspace exists and write data to DB. Added comments to producer and consumer.
+
+commit 78b55beef027fcbe61ef1494e1399d31949b1bb7
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Wed Feb 15 13:26:06 2023 +0200
+
+    Added data.csv to data folder
+
+commit 7b4c2e07e8c1b79c87abf478743196017091bdf3
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Wed Feb 15 13:24:32 2023 +0200
+
+    Yaml file: single zookeeper and single kafka_broker, Added producer.py and consumer_test.py
+
+commit d1721ba6e335e8be9939f31036466d6f231526af
+Author: Shahram Barai <shaharam.barai@aalto.fi>
+Date:   Tue Feb 14 12:03:08 2023 +0200
+
+    Updated mysimbdp-dataingest yaml file: Kafka cluster with 3 nodes and 1 zookeeper
+
+commit 49eaa876f2acd4e2a8427041f2fb835f7e9107cc
+Author: Ubuntu_test <shahram.barai@aalto.fi>
+Date:   Mon Feb 13 21:34:35 2023 +0200
+
+    Added mysimbdp-dataingest folder and empty docker-compose.yaml file
+
+commit c75eb6bd2bf7da9fbd2f866abc9b22cad6a8db32
+Author: Ubuntu_test <shahram.barai@aalto.fi>
+Date:   Mon Feb 13 00:10:49 2023 +0200
+
+    .yaml file problem fixed
+
+commit 751f9d1f7d296899a4cf0c16204165c3365d5432
+Author: Ubuntu_test <shahram.barai@aalto.fi>
+Date:   Sun Feb 12 23:08:09 2023 +0200
+
+    Added mysimdbp-coredms folder and .yaml file for Cassandra cluster (does not work yet)
+
+commit 41c31cbb5712e52b9fd73712a80519a5ce650569
+Author: Ubuntu_test <shahram.barai@aalto.fi>
+Date:   Sun Feb 12 00:55:45 2023 +0200
+
+    Adding template
+
+commit 50acf162a166dcdb58d6ec8cf28a6c1393e3d191
+Author: Ubuntu_test <shahram.barai@aalto.fi>
+Date:   Sun Feb 12 00:53:08 2023 +0200
+
+    test push
+
+commit f6d206ff7fa6b6e6c0be60fe418a4eb831e4a21c
+Author: Shahram Barai <shahram.barai@aalto.fi>
+Date:   Sat Feb 11 23:56:09 2023 +0200
+
+    Initial commit
+
