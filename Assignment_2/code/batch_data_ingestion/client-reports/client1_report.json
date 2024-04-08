@@ -1,0 +1,17 @@
+{"1678986874338992509": {
+  "file_received_size": 1778337,
+  "file_name": "1678986874338992509_client1.csv",
+  "file_path": "client-staging-input-directory/1678986874338992509_client1.csv",
+  "ingest_start_time": 1678986874.5014064,
+  "ingest_end_time": 1678986934.884765,
+  "ingest_time": 60.38335847854614,
+  "rows_total": 15679,
+  "rows_ingested": 15678,
+  "rows_failed": 1,
+  "file_size": 1778337,
+  "ingest_rate_bs": 29450.779897110773,
+  "ingest_rate_rs": 259.6576340743064,
+  "manager_process_time": 0.162413951,
+  "total_process_time": 60.545772491
+  }
+}

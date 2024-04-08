@@ -1,0 +1,5 @@
+confluent-kafka
+cassandra-driver
+argparse
+pandas
+flask

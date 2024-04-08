@@ -1,0 +1,22 @@
+{
+  "client1": {
+    "file_type": ["csv", "json"],
+    "max_files_number": 5,
+    "max_file_size": 104857600,
+    "uploaded_files_number": 0,
+    "uploaded_data_size": 0,
+    "max_memory_size": 10737418240,
+    "cassandra_class": "SimpleStrategy",
+    "replication_factor": 3
+  },
+  "client2": {
+    "file_type": ["txt"],
+    "max_files_number": 2,
+    "max_file_size": 524288000,
+    "uploaded_files_number": 0,
+    "uploaded_data_size": 0,
+    "max_memory_size": 5368709120,
+    "cassandra_class": "SimpleStrategy",
+    "replication_factor": 1
+  }
+}
