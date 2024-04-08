@@ -1,0 +1,30 @@
+{
+	"client1": {
+		"max_data_size": 1048576,
+		"max_memory_size": 10737418240,
+		"max_ingest_speed_bs": 10,
+		"uploaded_data_size": 1045,
+		"number_of_received_messages": 0,
+		"average_ingestion_time": -1672481755.488265,
+		"number_of_ingested_messages": 95,
+		"last_ingest_time": 1679040507.5144699,
+		"receive_time": 1679041415.9661214,
+		"ingest_end_time": 1679040507.5144699,
+		"ingest_file_size": 11,
+		"ingest_rate_bs": 2019.5817027796018
+	},
+	"client2": {
+		"max_data_size": 524288,
+		"max_memory_size": 5368709120,
+		"max_ingest_speed_bs": 10,
+		"uploaded_data_size": 3968,
+		"number_of_received_messages": 42,
+		"average_ingestion_time": 839520711.044296,
+		"number_of_ingested_messages": 992,
+		"last_ingest_time": 1679041416.8092475,
+		"receive_time": 1679041416.788592,
+		"ingest_end_time": 1679041416.8092475,
+		"ingest_file_size": 4,
+		"ingest_rate_bs": 968.6055077651406
+	}
+}
